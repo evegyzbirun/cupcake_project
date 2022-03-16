@@ -30,3 +30,14 @@ h3.best {
   color: blue;
   font-size: 30px;
 }
+
+a {
+  display: block;
+  text-decoration: none;
+  color: blue;
+  font-size: 25px;
+}
+
+a:hover {
+  color: blueviolet;
+}
