@@ -1,0 +1,32 @@
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+.title {
+  font-size: 45px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: blueviolet;
+  margin-bottom: 100px;
+}
+img {
+  width: 300px;
+  height: 350px;
+  border-radius: 50%;
+  border: blueviolet solid 2px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(252, 208, 216);
+  font-family: "Times New Roman", Times, serif;
+  margin: 70px;
+  line-height: 1.4rem;
+}
+
+h3.best {
+  color: blue;
+  font-size: 30px;
+}
